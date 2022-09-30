@@ -22,42 +22,42 @@ Below are some of the tools I use on a regular basis in my projects.
     <tr>
       <td>
         <p align="center">
-          <img src="./icons/html5-icon.png" width="50" height="50">
+          <img src="https://img.icons8.com/nolan/64/html-5.png"/>
           <br>
           <b>HTML5</b>
         </p>
       </td>
       <td>
         <p align="center">
-          <img src="./icons/css3-icon.png" width="50" height="50">
+          <img src="https://img.icons8.com/dusk/64/000000/css3.png"/>
           <br>
           <b>CSS3</b>
         </p>
       </td>
       <td>
         <p align="center">
-          <img src="./icons/javascript-icon.png" width="50" height="50">
+          <img src="https://img.icons8.com/nolan/64/javascript.png"/>
           <br>
           <b>JavaScript</b>
         </p>
       </td>
       <td>
         <p align="center">
-          <img src="./icons/java-icon.svg" width="50" height="50">
+          <img src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png"/>
           <br>
           <b>Java</b>
         </p>
       </td>
       <td>
         <p align="center">
-          <img src="./icons/npm-icon.svg" width="50" height="50">
+          <img src="https://img.icons8.com/windows/64/000000/npm.png"/>
           <br>
           <b>npm</b>
         </p>
       </td>
       <td>
         <p align="center">
-          <img src="./icons/react-native-icon.svg" width="50" height="50">
+          <img src="https://img.icons8.com/nolan/64/react-native.png"/>
           <br>
           <b>React</b>
         </p>
@@ -66,28 +66,28 @@ Below are some of the tools I use on a regular basis in my projects.
     <tr>
       <td>
         <p align="center">
-          <img src="./icons/node-js-icon.svg" width="50" height="50">
+          <img src="https://img.icons8.com/fluency/48/000000/node-js.png" width="64" height="64">
           <br>
           <b>Node.js</b>
         </p>
       </td>
       <td>
         <p align="center">
-          <img src="./icons/express-js-icon.svg" width="50" height="50">
+          <img src="https://img.icons8.com/color/96/000000/eslint.png" width="64" height="64">
           <br>
-          <b>Express</b>
+          <b>ESLint</b>
         </p>
       </td>
       <td>
         <p align="center">
-          <img src="./icons/webpack-icon.svg" width="50" height="50">
+          <img src="https://img.icons8.com/color/96/000000/firebase.png" width="64" height="64">
           <br>
-          <b>webpack</b>
+          <b>Firebase</b>
         </p>
       </td>
       <td>
         <p align="center">
-          <img src="./icons/aws-icon.svg" width="50" height="50">
+          <img src="./icons/aws-icon.svg" width="64" height="64">
           <br>
           <b>AWS</b>
         </p>
