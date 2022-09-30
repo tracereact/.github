@@ -8,7 +8,7 @@ These days, I find myself deeply enjoying website development. So much so, I cre
 
 Below are some of the tools I use on a regular basis in my projects. 
 
-(The table was created using vanilla HTML. Feel free to look at the source code to see how I did it!)
+(The table was created using vanilla HTML. Feel free to look at the [source code](https://raw.githubusercontent.com/tracereact/.github/main/profile/README.md) to see how I did it!)
 
 ## 🔧 Technologies & Tools
 <!-- Using HTML to create a table -->
