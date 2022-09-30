@@ -87,21 +87,21 @@ Below are some of the tools I use on a regular basis in my projects.
       </td>
       <td>
         <p align="center">
-          <img src="./icons/aws-icon.svg" width="64" height="64">
+          <img src="https://img.icons8.com/color/96/000000/amazon-web-services.png" width="64" height="64">
           <br>
           <b>AWS</b>
         </p>
       </td>
       <td>
         <p align="center">
-          <img src="./icons/git-icon.svg" width="50" height="50">
+          <img src="https://img.icons8.com/nolan/64/git.png" width="64" height="64">
           <br>
           <b>Git</b>
         </p>
       </td>
       <td>
         <p align="center">
-          <img src="./icons/postgresql-icon.svg" width="50" height="50">
+          <img src="https://img.icons8.com/color/96/000000/postgreesql.png" width="64" height="64">
           <br>
           <b>PostgreSQL</b>
         </p>
